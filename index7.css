@@ -1,0 +1,9 @@
+body{
+    font-family: Verdana;
+    font-size: 2em;    
+}
+h1{
+    text-align: center;
+    background-color: blue;
+    color: rgb(197, 203, 208);
+}
